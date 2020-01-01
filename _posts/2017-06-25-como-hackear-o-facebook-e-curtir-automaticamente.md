@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Curtir no Facebook automaticamente
-date:   2019-12-28 11:42:00
+date:   2017-06-25 10:00:00
 categories: Others
 author: lucianobragaweb
 tags: [JavaScript]
