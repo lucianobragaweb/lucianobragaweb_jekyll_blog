@@ -4,7 +4,7 @@ title:  Curtir no Facebook automaticamente
 date:   2017-06-25 10:00:00
 categories: Others
 author: lucianobragaweb
-tags: [JavaScript]
+tags: [JavaScript] [Facebook]
 ---
 
 É cada ideia que surge quando estamos com a mente ociosa que acabamos fazendo dessas coisas. Pois bem, vou explicar o que se passa.
