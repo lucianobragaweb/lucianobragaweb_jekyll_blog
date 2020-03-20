@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Curtir no Facebook automaticamente
+title:  Curtir no Facebook automaticamente Teste
 date:   2017-06-25 10:00:00
 categories: Others
 author: lucianobragaweb
-tags: [JavaScript] [Facebook]
+tags: [Facebook]
 ---
 
 É cada ideia que surge quando estamos com a mente ociosa que acabamos fazendo dessas coisas. Pois bem, vou explicar o que se passa.
