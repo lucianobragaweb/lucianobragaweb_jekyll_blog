@@ -13,18 +13,35 @@ Estamos em março de 2020 e o assunto do momento é Corona Vírus. Não vou disc
 Como não estava adaptado a esta realidade tive que ir em busca de ferramentas e técnicas para gerenciar uma equipe totalmente em Home Office da melhor maneira possível e manter tudo funcionando até que a crise passe.
 
 ## Principais Problemas
+Trabalhar de casa não é tão simples por diversos motivos. vou citar apenas alguns abaixo.
+
 
 *Manter o Foco*
+Manter o foco trabalhando em casa é o que mais dá problema por que é mais fácil se distrair e começar a fazer outras coisas. Eu estou distraido agora mesmo e por isso estou escrevendo este post. Mas sei que não devia desviar meu foco. pelo menos escrever não é tão perdido como ir ver vídeos no Youtube ou parar pra ler alguma notícia inútil ou mesmo jogar no celular, ver redes sociais, etc...
+
+Pra resumir, digamos que estando em casa é mais complicado se policiar quanto aos maos hábitos.
 
 ## Tecnicas Úteis
+Tem várias coisas que podemos fazer e eu vou citar apenas algumas que costumo fazer. Se achar alguma legal pesquise mais sobre o assunto. Isso vai muito do gosto de cada um.
 
+*Meditação*
+Não sou nem um monje nem nada. Mas descobri que relachar por alguns minutos antes de iniciar o trabalho é bastante útil e melhora o foco. Costumo pesquisar algum vídeo sobre Meditação Guiada no YouTube e fazer por 15min pra ficar um pouco mais tranquilo.
+
+*Escutar música*
+Essa já vai do gosto de cada um. Eu, prefiro escutar música ambiente ou temas de filme, principalmente instrumental. São ótimas para manter o foco por longos períodos de tempo.
+
+*Pomodoro*
+A chamada Técnica Pomodoro serve para controlar o tempo que você gasta em tarefas. Vale muito pesquisar mais sobre isso. Mas cada um encontra sua própria maneira de usar essa técnica com o tempo.
+
+Se resolver usar, recomendo que utilize o App *Focus To Do* por ser um dos mais completos e eficientes. Testei vários e no final até comprei a versão paga deste app por que achei bem útil.
 
 ## Livros que recomendo
 
-Ha alguns meses li dois livros que considero essenciais para comprender essa filosofia de times Ágeis.
+li alguns livros que considero essenciais para comprender essa filosofia de times Ágeis.
 
 - *Como fazer o dobro em metade do tempo*
 - *O metodo Toyta de produção*
+- *O monje e o Executivo*
 
 Esses livros foram escritos por pessoas que estudaram a fundo o problema da gestão de projetos e equipes ágeis. Então vale muito o tempo que você investe para entender essas idéias.
 
